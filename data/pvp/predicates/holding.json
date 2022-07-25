@@ -1,0 +1,17 @@
+{
+    "condition": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "type": "player",
+        "type_specific": {
+            "type": "player",
+            "gamemode": "unset"
+        },
+        "equipment": {
+            "mainhand": {
+                "tag": "pvp:combat",
+                "count": 1
+            }
+        }
+    }
+}
