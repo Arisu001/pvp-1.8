@@ -5,7 +5,7 @@
         "type": "player",
         "type_specific": {
             "type": "player",
-            "gamemode": "unset"
+            "gamemode": "survival"
         },
         "equipment": {
             "mainhand": {
