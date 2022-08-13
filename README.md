@@ -1,4 +1,4 @@
-#═════════════════[ Entity Effects ]═════════════════#
+#═════════════════[ PVP 1.8 ]═════════════════#
 
 > Ver_: 1.0.0
 > Language: French
@@ -10,5 +10,5 @@
 > Created by: Arisu001
 
 
-                    Copyright — Alls right reserved
-#════════════════════════════════════════════════════#
+            Copyright — Alls right reserved
+#═════════════════════════════════════════════#
