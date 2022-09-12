@@ -1,6 +1,6 @@
 #═════════════════[ PVP 1.8 ]═════════════════#
 
-> Ver_: 1.0.0
+> Ver_: 1.21.9
 > Language: French
 
 > Solo: Accepted ✔

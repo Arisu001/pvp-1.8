@@ -5,11 +5,11 @@
         "type": "player",
         "type_specific": {
             "type": "player",
-            "gamemode": "survival"
+            "gamemode": "unset"
         },
         "equipment": {
             "mainhand": {
-                "tag": "pvp:combat",
+                "tag": "src:combat",
                 "count": 1
             }
         }
